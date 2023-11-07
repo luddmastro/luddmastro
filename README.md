@@ -9,7 +9,8 @@ LK: https://www.linkedin.com/in/ludmila-mastroberti/
 - 👋 Hi, I’m Ludmila Mastroberti.
    I'm  researching, which is for me the new world of technological tools like Github.
 I invite you to accompany me in this process, and to see my progress!
-I leave you my Social Networks.
+I leave you my Social Medias
+.
 IG: https://www.instagram.com/luddmastro/
 LK: https://www.linkedin.com/in/ludmila-mastroberti/
 <!---
