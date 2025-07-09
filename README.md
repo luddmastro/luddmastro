@@ -3,7 +3,7 @@
 Soy estudiante de la Licenciatura en Sistemas con una pasión por la tecnología. Desde 2022, he estado inmersa en el mundo del desarrollo web, aprendiendo y perfeccionando mis habilidades en HTML5, CSS3 y JavaScript. Mi objetivo es combinar mis conocimientos técnicos con una mentalidad creativa para desarrollar soluciones innovadoras y efectivas.
 ¡Te invito que me acompañes en este proceso, y que veas mis avances!
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 ¡Podes contactarme aca! 👉🏼
 [![Linkedin Badge](https://img.shields.io/badge/-LudmilaMastroberti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ludmila-Mastroberti)]( https://www.linkedin.com/in/ludmila-mastroberti) [![Gmail Badge](https://img.shields.io/badge/-ludmilabelenmastroberti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ludmilabelenmastroberti@gmail.com)](mailto:ludmilabelenmastroberti@gmail.com)
