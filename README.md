@@ -4,13 +4,13 @@
 
 **🇦🇷 ES:**
 Soy estudiante de **3er año de la Licenciatura en Sistemas**, con una gran pasión por la tecnología. Actualmente, me encuentro trabajando en el área de **Benefits en PwC**. 
-Desde 2022, he estado inmersa en el mundo del desarrollo de software, aprendiendo y perfeccionando mis habilidades. Mi objetivo es combinar mis conocimientos técnicos con una mentalidad creativa para desarrollar soluciones innovadoras y efectivas. 
+Desde 2023, he estado inmersa en el mundo del desarrollo de software, aprendiendo y perfeccionando mis habilidades. Mi objetivo es combinar mis conocimientos técnicos con una mentalidad creativa para desarrollar soluciones innovadoras y efectivas. 
 
 ¡Te invito a que me acompañes en este proceso y veas mis avances!
 
 **🇺🇸 EN:**
 I am a **3rd-year Systems student** with a huge passion for technology. Currently, I am working in the **Benefits area at PwC**. 
-Since 2022, I've been immersed in the world of software development, learning and honing my skills. My goal is to combine my technical knowledge with a creative mindset to develop innovative and effective solutions. 
+Since 2023, I've been immersed in the world of software development, learning and honing my skills. My goal is to combine my technical knowledge with a creative mindset to develop innovative and effective solutions. 
 
 I invite you to join me in this process and see my progress!
 
